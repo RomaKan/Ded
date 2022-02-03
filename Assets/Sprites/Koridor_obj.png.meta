@@ -1,0 +1,648 @@
+fileFormatVersion: 2
+guid: 122b75d4c2383a14aad762f6b56b669c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6906518232698555119
+    second: Koridor_obj_0
+  - first:
+      213: 1031815049935022883
+    second: Koridor_obj_1
+  - first:
+      213: -597175162352993393
+    second: Koridor_obj_2
+  - first:
+      213: -7804623864402641061
+    second: Koridor_obj_3
+  - first:
+      213: 7904556977480880511
+    second: Koridor_obj_4
+  - first:
+      213: 6506732755291549412
+    second: Koridor_obj_5
+  - first:
+      213: 1117116871603851464
+    second: Koridor_obj_6
+  - first:
+      213: -6082368568968336442
+    second: Koridor_obj_7
+  - first:
+      213: 2449605485660472035
+    second: Koridor_obj_8
+  - first:
+      213: -2918590655019960552
+    second: Koridor_obj_9
+  - first:
+      213: -2604266941229265993
+    second: Koridor_obj_10
+  - first:
+      213: 1801365041710163116
+    second: Koridor_obj_11
+  - first:
+      213: -6801196687088274110
+    second: Koridor_obj_12
+  - first:
+      213: -7201313946940382883
+    second: Koridor_obj_13
+  - first:
+      213: -8771828608337411928
+    second: Koridor_obj_14
+  - first:
+      213: 2678393854471738303
+    second: Koridor_obj_15
+  - first:
+      213: 5325297040924958351
+    second: Koridor_obj_16
+  - first:
+      213: 1078682747004528587
+    second: Koridor_obj_17
+  - first:
+      213: 8618839370640475839
+    second: Koridor_obj_18
+  - first:
+      213: -7860546140936473959
+    second: Koridor_obj_19
+  - first:
+      213: 7632834924579410591
+    second: Koridor_obj_20
+  - first:
+      213: 3676545223824048678
+    second: Koridor_obj_21
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Koridor_obj_0
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 471
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1157e39724e1720a0800000000000000
+      internalID: -6906518232698555119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koridor_obj_1
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 471
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32b6745325eb15e00800000000000000
+      internalID: 1031815049935022883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koridor_obj_2
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 471
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8b73439a5866b7f0800000000000000
+      internalID: -597175162352993393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koridor_obj_3
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 471
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5f7ebc22f760b390800000000000000
+      internalID: -7804623864402641061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koridor_obj_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 474
+        width: 10
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f71559dd0b0a2bd60800000000000000
+      internalID: 7904556977480880511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koridor_obj_5
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 450
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ee2d8f77fe8c4a50800000000000000
+      internalID: 6506732755291549412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koridor_obj_6
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 445
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c01b8040ebc08f00800000000000000
+      internalID: 1117116871603851464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koridor_obj_7
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 442
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cb24a52306179ba0800000000000000
+      internalID: -6082368568968336442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koridor_obj_8
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 451
+        width: 26
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e204ace53fbef120800000000000000
+      internalID: 2449605485660472035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koridor_obj_9
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 447
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 817b2ca33451f77d0800000000000000
+      internalID: -2918590655019960552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koridor_obj_10
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 377
+        width: 31
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bb8cb3d309cbdbd0800000000000000
+      internalID: -2604266941229265993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koridor_obj_11
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 370
+        width: 14
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca4e0fd16fbbff810800000000000000
+      internalID: 1801365041710163116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koridor_obj_12
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 417
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2453a8ab5ab4d91a0800000000000000
+      internalID: -6801196687088274110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koridor_obj_13
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 377
+        width: 31
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d516d849e1bcf0c90800000000000000
+      internalID: -7201313946940382883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koridor_obj_14
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 388
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a080791b54344680800000000000000
+      internalID: -8771828608337411928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koridor_obj_15
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 388
+        width: 6
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb3906815019b2520800000000000000
+      internalID: 2678393854471738303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koridor_obj_16
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 377
+        width: 17
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8e55cfa17147e940800000000000000
+      internalID: 5325297040924958351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koridor_obj_17
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 406
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc72c884e3048fe00800000000000000
+      internalID: 1078682747004528587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koridor_obj_18
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 317
+        width: 79
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb64d273eb44c9770800000000000000
+      internalID: 8618839370640475839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koridor_obj_19
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 295
+        width: 31
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 992f9e88eeab9e290800000000000000
+      internalID: -7860546140936473959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koridor_obj_20
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 311
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9250c46ce64de960800000000000000
+      internalID: 7632834924579410591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koridor_obj_21
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 216
+        width: 130
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62201b2e666b50330800000000000000
+      internalID: 3676545223824048678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures:
+    - texture: {fileID: 2800000, guid: a1f5e2bfe2fbe9345bcf8cc023bc70ba, type: 3}
+      name: _NormalMap
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

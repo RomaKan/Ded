@@ -1,0 +1,890 @@
+fileFormatVersion: 2
+guid: ce2ce21b2715f7a42a54caa5eb1deb47
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5407221848575520379
+    second: Fonar_0
+  - first:
+      213: -8960499718999743027
+    second: Fonar_1
+  - first:
+      213: 5541082643462953499
+    second: Fonar_2
+  - first:
+      213: -8070837819838690777
+    second: Fonar_3
+  - first:
+      213: -347335309121800144
+    second: Fonar_4
+  - first:
+      213: 374171289623956408
+    second: Fonar_5
+  - first:
+      213: -6739471267783613052
+    second: Fonar_6
+  - first:
+      213: -5258470290842052556
+    second: Fonar_7
+  - first:
+      213: -1641522864887683049
+    second: Fonar_8
+  - first:
+      213: 6802335171731468807
+    second: Fonar_9
+  - first:
+      213: 8621555560226191117
+    second: Fonar_10
+  - first:
+      213: 7735396225727632359
+    second: Fonar_11
+  - first:
+      213: -4633949586135177057
+    second: Fonar_12
+  - first:
+      213: 3330108585880839071
+    second: Fonar_13
+  - first:
+      213: 6897330710849306650
+    second: Fonar_14
+  - first:
+      213: 7192383651166859287
+    second: Fonar_15
+  - first:
+      213: -921172735908437335
+    second: Fonar_16
+  - first:
+      213: -5992363461678491789
+    second: Fonar_17
+  - first:
+      213: -1492170803707660303
+    second: Fonar_18
+  - first:
+      213: 7531258364686284713
+    second: Fonar_19
+  - first:
+      213: -7412429994986703153
+    second: Fonar_20
+  - first:
+      213: 2283110161635762242
+    second: Fonar_21
+  - first:
+      213: -2329217888605452884
+    second: Fonar_22
+  - first:
+      213: 1240690630245948130
+    second: Fonar_23
+  - first:
+      213: 625224089302804593
+    second: Fonar_24
+  - first:
+      213: 6008276965891030307
+    second: Fonar_25
+  - first:
+      213: 3370259715523875870
+    second: Fonar_26
+  - first:
+      213: -8212444766821026293
+    second: Fonar_27
+  - first:
+      213: -5680713437917214763
+    second: Fonar_28
+  - first:
+      213: 3470907242133381452
+    second: Fonar_29
+  - first:
+      213: 6841687592119963043
+    second: Fonar_30
+  - first:
+      213: 4720262394659007814
+    second: Fonar_31
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Fonar_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 480
+        width: 14
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7e23126f9f4a0b40800000000000000
+      internalID: 5407221848575520379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fonar_1
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 480
+        width: 21
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc56807faf8e5a380800000000000000
+      internalID: -8960499718999743027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fonar_2
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 413
+        width: 19
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1a11ba6e41e5ec40800000000000000
+      internalID: 5541082643462953499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fonar_3
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 417
+        width: 14
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72a0ab493cf9eff80800000000000000
+      internalID: -8070837819838690777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fonar_4
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 353
+        width: 21
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03838d960640e2bf0800000000000000
+      internalID: -347335309121800144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fonar_5
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 353
+        width: 26
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bb8f233ec2513500800000000000000
+      internalID: 374171289623956408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fonar_6
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 293
+        width: 26
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4856ec5d6969872a0800000000000000
+      internalID: -6739471267783613052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fonar_7
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 293
+        width: 24
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4381a6c81292607b0800000000000000
+      internalID: -5258470290842052556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fonar_8
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 231
+        width: 26
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71820bbc6a32839e0800000000000000
+      internalID: -1641522864887683049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fonar_9
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 231
+        width: 26
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70233326ccfb66e50800000000000000
+      internalID: 6802335171731468807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fonar_10
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 232
+        width: 26
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0773926a1be5a770800000000000000
+      internalID: 8621555560226191117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fonar_11
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 231
+        width: 25
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e3946722e5a95b60800000000000000
+      internalID: 7735396225727632359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fonar_12
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 231
+        width: 25
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9828533767e0bfb0800000000000000
+      internalID: -4633949586135177057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fonar_13
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 231
+        width: 26
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f93e7ec7d1ce63e20800000000000000
+      internalID: 3330108585880839071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fonar_14
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 167
+        width: 26
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a10c096ecbd38bf50800000000000000
+      internalID: 6897330710849306650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fonar_15
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 166
+        width: 26
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 710b028e2da70d360800000000000000
+      internalID: 7192383651166859287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fonar_16
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 166
+        width: 26
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a2276bf6465733f0800000000000000
+      internalID: -921172735908437335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fonar_17
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 166
+        width: 25
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3779f953e29d6dca0800000000000000
+      internalID: -5992363461678491789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fonar_18
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 166
+        width: 26
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f7bbc45f8eba4be0800000000000000
+      internalID: -1492170803707660303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fonar_19
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 166
+        width: 26
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a7b0d29497648860800000000000000
+      internalID: 7531258364686284713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fonar_20
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 87
+        width: 27
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc6fd5a3132c12990800000000000000
+      internalID: -7412429994986703153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fonar_21
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 87
+        width: 27
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2406267789c3faf10800000000000000
+      internalID: 2283110161635762242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fonar_22
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 87
+        width: 26
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca5cf29cba4fcafd0800000000000000
+      internalID: -2329217888605452884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fonar_23
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 87
+        width: 23
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ea17f30e81d73110800000000000000
+      internalID: 1240690630245948130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fonar_24
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 87
+        width: 24
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17829e32ffd3da800800000000000000
+      internalID: 625224089302804593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fonar_25
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 87
+        width: 26
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32db8183110b16350800000000000000
+      internalID: 6008276965891030307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fonar_26
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 15
+        width: 27
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e141c98da5195ce20800000000000000
+      internalID: 3370259715523875870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fonar_27
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 15
+        width: 28
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b06fd18fef8870e80800000000000000
+      internalID: -8212444766821026293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fonar_28
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 15
+        width: 26
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d70826d93d0a21b0800000000000000
+      internalID: -5680713437917214763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fonar_29
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 16
+        width: 23
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c41e0bf3fb32b2030800000000000000
+      internalID: 3470907242133381452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fonar_30
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 16
+        width: 24
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ad0280cd9e82fe50800000000000000
+      internalID: 6841687592119963043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fonar_31
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 17
+        width: 26
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64de84093adb18140800000000000000
+      internalID: 4720262394659007814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures:
+    - texture: {fileID: 2800000, guid: d93a51957518a2348a7ff032c3b138b5, type: 3}
+      name: _Emission
+    - texture: {fileID: 2800000, guid: 9bb194379d40fcb4e9cd617bf9ec074b, type: 3}
+      name: _NormalMap
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
